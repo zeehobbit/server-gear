@@ -13,3 +13,9 @@ Intel Core i5 2400 3100 Mhz 6MB
 
 ---
 http://www.olx.bg/ad/kompyutar-dell-optiplex-790-ID5T76G.html#47afc66f92
+
+---
+Acer Veriton X2611G
+
+Intel Core i5-3330 6GB DDR3 500GB
+http://hop.bg/bg/%D0%BA%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%80%D0%B8-110/acer-veriton-x2611g-110(id=41609)
