@@ -19,3 +19,5 @@ Acer Veriton X2611G
 
 Intel Core i5-3330 6GB DDR3 500GB
 http://hop.bg/bg/%D0%BA%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%80%D0%B8-110/acer-veriton-x2611g-110(id=41609)
+
+http://files.acerbilder.com/product_sheets/nordic/4.%20Desktop/Veriton/X-series/X2611/Product%20sheet_%20DT.VF6EQ.030%20(VX2611G).pdf
