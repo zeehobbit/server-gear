@@ -10,3 +10,6 @@ Intel Core i5 2400 3100 Mhz 6MB
 320 GB SATA
 
 Цена - 383 лв. с ДДС
+
+---
+http://www.olx.bg/ad/kompyutar-dell-optiplex-790-ID5T76G.html#47afc66f92
