@@ -33,5 +33,6 @@ http://files.acerbilder.com/product_sheets/nordic/4.%20Desktop/Veriton/X-series/
 ##Dell T20
 
 Intel Pentium G3220 (**53W TDP**) | 4GB DDR3 | NO HDD
+
 http://www.pazaruvaj.com/syrvyri-c3641/dell/poweredge-t20-dell01801-p306767549/
 
