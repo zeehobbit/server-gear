@@ -36,3 +36,5 @@ Intel Pentium G3220 (**53W TDP**) | 4GB DDR3 | NO HDD
 
 http://www.pazaruvaj.com/syrvyri-c3641/dell/poweredge-t20-dell01801-p306767549/
 
+https://blog.philippklaus.de/2014/10/dell-poweredge-t20-with-xeon-e3-1225v3-cpu/
+
