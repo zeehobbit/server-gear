@@ -25,3 +25,9 @@ http://files.acerbilder.com/product_sheets/nordic/4.%20Desktop/Veriton/X-series/
 Цена - 369 лв. с ДДС
 
 ---
+
+# Server grade /w Xeon
+
+##Lenovo TS140
+
+##Dell T20
